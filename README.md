@@ -1,4 +1,4 @@
 # Demo-for---Github
 This is my first Git repository
 <br>
-Author - Mahendra (Git)
+Author - Mahendra (Coder)
